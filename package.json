@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "name": "proyecto-front-end---fiorella-adduci",
+  "version": "1.0.0",
+  "description": "Front End de un E-Commerce sobre venta de muebles y artículos para el hogar",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fiore25/educacionit.git"
+  },
+  "keywords": [
+    "Front",
+    "End",
+    "E-Commerce",
+    "HTML",
+    "CSS",
+    "JS",
+    "Node",
+    "Sass"
+  ],
+  "author": "Fiorella Adduci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fiore25/educacionit/issues"
+  },
+  "homepage": "https://github.com/Fiore25/educacionit#readme"
+}
